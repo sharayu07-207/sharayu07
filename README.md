@@ -1,2 +1,6 @@
 # sharayu07
-code
+#include<stdio.h>
+int main(){
+printf("I am cat");
+return 0;
+}
